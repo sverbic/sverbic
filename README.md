@@ -1,6 +1,6 @@
 
-- 👀 I’m interested in science education and data-driven (social) innovations.
-- 💞️ I’m looking for to collaborate on slowing down the planet a little bit. This pace is insane.
+- 🏛 I’m interested in science education and data-driven (social) innovations.
+- 👀 I’m looking for to collaborate on slowing down the planet a little bit. This pace is insane.
 
 
 <!---
